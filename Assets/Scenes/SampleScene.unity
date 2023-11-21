@@ -492,7 +492,7 @@ MonoBehaviour:
   printerLocationGameObj: {fileID: 2028547972}
   canvas: {fileID: 1241769916}
   loading: {fileID: 204247506}
-  buyCost: 5000
+  buyCost: 200
 --- !u!65 &22049183
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1438,7 +1438,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Buy Worker Table
 
-    5K $'
+    200 $'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -2498,7 +2498,7 @@ MonoBehaviour:
   m_text: 'Buy Worker
 
 
-    2K $'
+    200 $'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -5667,7 +5667,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0a2a5816bddce6742a3cd8a39e630274, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  buyCost: 2000
+  buyCost: 200
   worker: {fileID: 4060461914979764337, guid: 1213a0d9c06b47e4c9114786519bd09c, type: 3}
   loading: {fileID: 11778325}
 --- !u!1 &1036709878
@@ -8372,7 +8372,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Buy Printer
 
-    5K $'
+    200 $'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}
@@ -9091,7 +9091,7 @@ MonoBehaviour:
   printerLocationGameObj: {fileID: 1602101689}
   canvas: {fileID: 845055735}
   loading: {fileID: 147632901}
-  buyCost: 20000
+  buyCost: 500
 --- !u!65 &1479887162
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9256,7 +9256,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moneyList: []
-  buyCost: 5000
+  buyCost: 200
   isActive: 0
   stackPaper: {fileID: 2086919317}
   stackMoney: {fileID: 393463185}
@@ -9929,7 +9929,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Buy Printer
 
-    20K $'
+    500 $'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 79459efec17a4d00a321bdcc27bbc385, type: 2}

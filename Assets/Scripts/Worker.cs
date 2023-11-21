@@ -75,6 +75,7 @@ public class Worker : MonoBehaviour
         for (int i = 0; i < moneyList.Count; i++)
         {
             moneyList[i].StartMoving(player, null);
+            stackMoney.transform.position = stackMoney.transform.position - heightOffset;
             totalMoney += 50;
         }
         moneyList.Clear();
